@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="task-manager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/task-manager/out/artifacts/task_manager/task-manager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
